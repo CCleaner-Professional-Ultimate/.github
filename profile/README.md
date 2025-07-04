@@ -59,7 +59,7 @@ CCleaner Professional is a top-tier PC optimization tool built to clean junk fil
 
 ### 🖼 Preview
 
-![Screenshot1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5f9PGiRzXU0qXlJ8uzak7_D-0rG-k09ja_Q&s)  
+  
 ![Screenshot2](https://miro.medium.com/v2/resize:fit:625/1*kQkqO0n4lSN1Q7FdJqPflA.png)
 
 ---
